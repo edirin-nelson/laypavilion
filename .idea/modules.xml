@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lawpavilion.iml" filepath="$PROJECT_DIR$/.idea/lawpavilion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Library Management System/library-managemt-system.iml" filepath="$PROJECT_DIR$/Library Management System/library-managemt-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX UI/library-managemt-system.iml" filepath="$PROJECT_DIR$/JavaFX UI/library-managemt-system.iml" />
     </modules>
   </component>
 </project>
