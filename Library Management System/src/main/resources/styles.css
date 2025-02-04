@@ -1,0 +1,44 @@
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #f4f4f4;
+}
+
+/* Header Styling */
+.header {
+    -fx-padding: 15px;
+    -fx-background-color: #333;
+}
+
+.header-title {
+    -fx-font-size: 18px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+/* Table Styling */
+.table-view {
+    -fx-background-color: white;
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5px;
+}
+
+/* Input Grid */
+.input-grid {
+    -fx-padding: 10px;
+    -fx-background-color: #fff;
+    -fx-border-color: #ddd;
+    -fx-border-radius: 5px;
+}
+
+/* Buttons */
+.action-button {
+    -fx-background-color: #2a9df4;
+    -fx-text-fill: white;
+    -fx-padding: 10px;
+    -fx-font-size: 14px;
+    -fx-border-radius: 5px;
+}
+
+.delete-button {
+    -fx-background-color: #e74c3c;
+}
